@@ -36,30 +36,30 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 
 1. **License grant**.
 
-  1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
-    1. reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and
-    1. produce, reproduce, and Share Adapted Material for NonCommercial purposes only.
+    1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
+        1. reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and
+        1. produce, reproduce, and Share Adapted Material for NonCommercial purposes only.
 
-  1. _Exceptions and Limitations_. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
+    1. _Exceptions and Limitations_. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
 
-  1. _Term_. The term of this Public License is specified in Section 6(a).
+    1. _Term_. The term of this Public License is specified in Section 6(a).
 
-  1. _Media and formats_; _technical modifications allowed_. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
+    1. _Media and formats_; _technical modifications allowed_. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
 
-  1. _Downstream recipients_.
-    1. _Offer from the Licensor – Licensed Material_. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
-    1. _Additional offer from the Licensor – Adapted Material_. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.
-    1. _No downstream restrictions_. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
+    1. _Downstream recipients_.
+        1. _Offer from the Licensor – Licensed Material_. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
+        1. _Additional offer from the Licensor – Adapted Material_. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter’s License You apply.
+        1. _No downstream restrictions_. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
 
-  1. _No endorsement_. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
+    1. _No endorsement_. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
 
 1. **Other rights**.
 
-  1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
+    1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
 
-  1. Patent and trademark rights are not licensed under this Public License.
+    1. Patent and trademark rights are not licensed under this Public License.
 
-  1. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.
+    1. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.
 
 ## Section 3 – License Conditions.
 
@@ -95,9 +95,9 @@ For the avoidance of doubt, this Section 4 supplements and does not replace Your
 
 1. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
 
-  1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
+    1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
 
-  1. upon express reinstatement by the Licensor.
+    1. upon express reinstatement by the Licensor.
 
   For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
 
