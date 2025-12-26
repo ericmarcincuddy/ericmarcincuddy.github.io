@@ -1,4 +1,3 @@
 source "https://rubygems.org"
 
-gem "jekyll"
-gem "logger"
+gem "jekyll", "~> 4.2"
